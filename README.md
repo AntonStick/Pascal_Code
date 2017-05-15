@@ -1,4 +1,3 @@
 # Pascal_Code
 
-
-## First proect
+Первый проект на GitHub
